@@ -1,0 +1,47 @@
+h1 {
+  background-color: #7e1212;
+  text-align: center;
+  margin-top: 20 px;
+  color: #ffffff;
+  width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sunset {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.car {
+border: black 3px dashed;
+}
+
+div.cars {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
+
+div.blocktext {  
+  margin-top: 20px;
+  width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+div.footer {
+  font-size: 20px;
+  background-color: #000000;
+  text-align: center;
+  color: #ffffff;
+  width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+main {
+  font-size: 18px;
+}
+
