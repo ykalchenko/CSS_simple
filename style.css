@@ -1,0 +1,44 @@
+main {
+  font-size: 18px;
+}
+
+h1 {
+  background-color: #A52A2A;
+  text-align: center;
+  margin-top: 20px;
+  color: #ffffff;
+  width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sunset {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.car {
+border: black 3px dashed;
+}
+
+div.cars {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
+
+div.block-text {  
+  width: 760px;
+  margin: 20px auto;
+}
+
+div.footer {
+  font-size: 20px;
+  background-color: #000000;
+  text-align: center;
+  color: #ffffff;
+  width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
